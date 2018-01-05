@@ -1,0 +1,30 @@
+{
+  "name": "storytime",
+  "version": "1.0.0",
+  "description": "a skill",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brendanclement/UhSkill.git"
+  },
+  "keywords": [
+    "alexa",
+    "skill"
+  ],
+  "author": "Stephanie Clement",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/leftorright/StoryTime/issues"
+  },
+  "homepage": "https://github.com/leftorright/StoryTime#readme",
+  "dependencies": {
+    "alexa-sdk": "^1.0.6"
+  },
+  "devDependencies": {
+    "@types/core-js": "^0.9.35",
+    "@types/node": "^7.0.5",
+  }
+}

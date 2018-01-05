@@ -1,0 +1,32 @@
+loadStoryTimeIntent  load story
+loadStoryTimeIntent  resume story
+loadStoryTimeIntent  load a story
+loadStoryTimeIntent  resume a story
+loadStoryTimeIntent load the story
+loadStoryTimeIntent  resume the story
+loadStoryTimeIntent load last story
+loadStoryTimeIntent  resume last story
+loadStoryTimeIntent load a last story
+loadStoryTimeIntent resume a last story
+loadStoryTimeIntent  load the last story
+loadStoryTimeIntent resume the last story
+storyIntent  new story
+storyIntent  start story
+storyIntent create story
+storyIntent  begin story
+storyIntent build story
+storyIntent  new a story
+storyIntent start a story
+storyIntent create a story
+storyIntent  begin a story
+storyIntent  build a story
+storyIntent  new the story
+storyIntent  start the story
+storyIntent  create the story
+storyIntent begin the story
+storyIntent  build the story
+storyIntent {STEPVALUE}
+saveIntent  save story
+saveIntent  save a story
+saveIntent  save the story
+saveIntent  save my story
