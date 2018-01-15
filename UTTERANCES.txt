@@ -10,6 +10,8 @@ loadStoryTimeIntent load a last story
 loadStoryTimeIntent resume a last story
 loadStoryTimeIntent  load the last story
 loadStoryTimeIntent resume the last story
+loadStoryTimeIntent start a story
+loadStoryTimeIntent new story
 storyIntent  new story
 storyIntent  start story
 storyIntent create story
